@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2.0.0",
+      "latest-version": "1.0.0",
       "download-url": "https://bitbucket.org/jingzhe/bm_qt_releases/raw/91a44cf83496ef6463b699490be273f61012191c/BM_V1.0.0.exe",
       "changelog": "测试版本"
     },
